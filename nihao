@@ -1,0 +1,27 @@
+<html>
+<body>
+<p>
+This is my <br> first &nbsp &nbsp paragraph.
+</p>
+<pre>This is my
+first    paragraph.
+</pre>
+<br>
+<abbr title="etcetera">etc.</abbr>
+<br>
+<acronym title="World Wide Web">WWW</acronym>
+<br>
+<a href="http://www.runoob.com" draggable="true">Link</a>
+
+<br>
+<p>ni hao</p>
+<address>
+Written by <a href="mailto:webmaster@example.com">Jon Doe</a>.<br> 
+Visit us at:<br>
+Example.com<br>
+Box 564, Disneyland<br>
+USA
+</address>
+</body>
+</html>
+
